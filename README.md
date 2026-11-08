@@ -21,9 +21,13 @@ CSV Cleaner
 Структура проекта
 
 csv-cleaner/
+|
 ├── data/
+|
 ├── output/
+|
 ├── main.py
+|
 └── README.md
 
 Запуск
