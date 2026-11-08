@@ -20,7 +20,7 @@ CSV Cleaner
 
 Структура проекта
 
-csv-cleaner/
+```csv-cleaner/
 |
 ├── data/
 |
@@ -29,7 +29,7 @@ csv-cleaner/
 ├── main.py
 |
 └── README.md
-
+```
 Запуск
 
 1. Скачайте репозиторий.
