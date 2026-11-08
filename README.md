@@ -19,8 +19,8 @@ CSV Cleaner
 - pathlib
 
 Структура проекта
-
-```csv-cleaner/
+```
+csv-cleaner/
 |
 ├── data/
 |
